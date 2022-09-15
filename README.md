@@ -1,0 +1,2 @@
+# JetJBP
+A basic colorscheme.
