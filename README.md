@@ -5,7 +5,6 @@ A basic colorscheme for personal use.
 _Still a work in progress, I'll probably change the colors to something else._
 
 ## Screenshots
-TODO change this screenshot
 ![Desktop
 screenshot](https://github.com/santigo-zero/tests/blob/master/desktop.png)
 
