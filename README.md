@@ -8,12 +8,12 @@ TODO Use gimp or something to create a pretty colorscheme screenshot.
 ## Screenshots
 TODO change this screenshot
 ![Desktop
-screenshot](https://github.com/santigo-zero/tests/blob/master/Screenshot_20220910_190828.png?raw=true
-"Plasma and Konsole using the JetJBP colorscheme")
+screenshot](https://github.com/santigo-zero/tests/blob/master/desktop.png)
 
 ## Installation
 ### Neovim
-You can follow the instructions [there](https://github.com/santigo-zero/jetjbp.nvim)
+You can follow the instructions
+[there](https://github.com/santigo-zero/jetjbp.nvim).
 
 ### Plasma and Konsole
 Manually choose JetJBP in your settings after running the script.
