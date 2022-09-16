@@ -5,6 +5,7 @@ A basic colorscheme for personal use.
 **WIP**
 
 # Screenshots
+TODO change this screenshot
 ![Desktop
 screenshot](https://github.com/santigo-zero/tests/blob/master/Screenshot_20220910_190828.png?raw=true
 "Plasma and Konsole using the JetJBP colorscheme")
