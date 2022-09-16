@@ -17,7 +17,7 @@ You can follow the instructions
 Manually choose JetJBP in your settings after running the script.
 
 ### Kitty
-Add this line anywhere in your kitty.conf after running the script(WIP):
+Run the script and then add this line to your kitty.conf:
 ```bash
 include themes/JetJBP.conf
 ```
