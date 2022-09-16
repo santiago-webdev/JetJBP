@@ -2,8 +2,7 @@
 A basic colorscheme for personal use.
 
 ## Palette
-**WIP**
-TODO Use gimp or something to create a pretty colorscheme screenshot.
+_Still a work in progress, I'll probably change the colors to something else._
 
 ## Screenshots
 TODO change this screenshot
