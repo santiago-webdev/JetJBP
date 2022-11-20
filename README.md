@@ -22,6 +22,12 @@ Run the script and then add this line to your kitty.conf:
 include themes/JetJBP.conf
 ```
 
+### WezTerm
+Run the script and then require the theme:
+```lua
+colors = require('themes.jetjbp')
+```
+
 ### Firefox
 For firefox you need to install [this extension from
 mozilla](https://color.firefox.com/) and then follow this
