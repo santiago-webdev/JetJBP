@@ -1,15 +1,15 @@
 [Background]
-Color=27,26,39
+Color=52,52,61
 RandomHueRange=360
 RandomSaturationRange=100
 
 [BackgroundFaint]
-Color=26,23,36
+Color=52,52,61
 RandomHueRange=360
 RandomSaturationRange=100
 
 [BackgroundIntense]
-Color=31,29,46
+Color=52,52,61
 RandomHueRange=360
 RandomSaturationRange=100
 
@@ -35,28 +35,28 @@ Color=243,143,169
 Color=126,189,182
 
 [Color2Faint]
-Color=85,154,139
+Color=99,177,177
 
 [Color2Intense]
 Color=147,200,142
 
 [Color3]
-Color=255,158,100
+Color=250,179,135
 
 [Color3Faint]
 Color=246,193,119
 
 [Color3Intense]
-Color=250,179,135
+Color=255,158,100
 
 [Color4]
-Color=70,130,180
+Color=130,166,228
 
 [Color4Faint]
-Color=61,89,161
+Color=62,143,176
 
 [Color4Intense]
-Color=123,161,227
+Color=166,191,236
 
 [Color5]
 Color=176,148,222
@@ -77,13 +77,13 @@ Color=24,108,96
 Color=147,200,142
 
 [Color7]
-Color=116,116,156
+Color=125,140,159
 
 [Color7Faint]
-Color=174,172,192
+Color=181,190,201
 
 [Color7Intense]
-Color=198,208,245
+Color=125,140,159
 
 [Foreground]
 Color=198,208,245
@@ -102,11 +102,11 @@ RandomSaturationRange=100
 
 [General]
 Anchor=1,1
-Blur=true
+Blur=false
 ColorRandomization=false
 Description=JetJBP
 FillStyle=Tile
-Opacity=0.94
+Opacity=1
 Wallpaper=
 WallpaperFlipType=NoFlip
 WallpaperOpacity=1
