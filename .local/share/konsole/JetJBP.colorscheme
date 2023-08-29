@@ -1,5 +1,5 @@
 [Background]
-Color=52,52,61
+Color=45,46,53
 RandomHueRange=360
 RandomSaturationRange=100
 
@@ -9,7 +9,7 @@ RandomHueRange=360
 RandomSaturationRange=100
 
 [BackgroundIntense]
-Color=52,52,61
+Color=45,46,53
 RandomHueRange=360
 RandomSaturationRange=100
 
@@ -20,16 +20,16 @@ Color=61,58,86
 Color=61,58,86
 
 [Color0Intense]
-Color=83,79,121
+Color=108,113,124
 
 [Color1]
-Color=235,111,146
+Color=237,119,152
 
 [Color1Faint]
-Color=235,160,172
+Color=219,108,111
 
 [Color1Intense]
-Color=243,143,169
+Color=240,142,169
 
 [Color2]
 Color=126,189,182
@@ -86,7 +86,7 @@ Color=181,190,201
 Color=125,140,159
 
 [Foreground]
-Color=198,208,245
+Color=255,255,255
 RandomHueRange=360
 RandomSaturationRange=100
 
@@ -102,7 +102,7 @@ RandomSaturationRange=100
 
 [General]
 Anchor=1,1
-Blur=false
+Blur=true
 ColorRandomization=false
 Description=JetJBP
 FillStyle=Tile
